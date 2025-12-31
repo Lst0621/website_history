@@ -38,7 +38,7 @@ article/sp_lang.html,2025-10-11
 article/space_filling.html,2025-01-23
 article/square_patterns.html,2025-06-07
 article/template.html,2025-10-11
-article/test_cases.html,2025-07-31
+article/test_cases.html,2025-12-21
 article/tip.html,2025-07-29
 article/tree.html,2021-12-18
 article/uz.html,2024-12-26
@@ -49,7 +49,7 @@ css/book.css,2025-07-16
 css/code.css,2025-07-16
 css/default.css,2022-01-26
 dedup.sh,2025-07-26
-get_last_commit_time.sh,2022-01-22
+get_last_commit_time.sh,2025-12-20
 img/flame1.png,2018-02-23
 img/flame2.png,2018-02-21
 img/left.png,2021-01-23
@@ -88,8 +88,8 @@ lib/page/sp_lang.js,2025-09-14
 lib/page/sp_lang.ts,2025-09-14
 lib/page/template.js,2025-10-11
 lib/page/template.ts,2025-10-11
-lib/page/test_case.js,2025-12-20
-lib/page/test_case.ts,2025-12-20
+lib/page/test_case.js,2025-12-21
+lib/page/test_case.ts,2025-12-21
 lib/page/tip.js,2025-07-29
 lib/page/tip.ts,2025-07-29
 lib/page_set_relation.js,2025-08-05
@@ -102,12 +102,14 @@ lib/reading.js,2025-07-16
 lib/reading.ts,2025-07-16
 lib/square_pattern.js,2025-06-16
 lib/square_pattern.ts,2025-06-16
-lib/test/test_math.js,2025-12-20
-lib/test/test_math.ts,2025-12-20
-lib/test/tests.js,2025-09-06
-lib/test/tests.ts,2025-09-06
+lib/test/test_lang.js,2025-12-29
+lib/test/test_lang.ts,2025-12-29
+lib/test/test_math.js,2025-12-29
+lib/test/test_math.ts,2025-12-29
+lib/test/tests.js,2025-12-29
+lib/test/tests.ts,2025-12-29
 lib/tsconfig.json,2025-07-30
-lib/tsl,2025-12-20
+lib/tsl,2025-12-28
 resource/joey.psv,2025-07-16
 resource/lib_of_hj.psv,2025-12-20
 resource/reading.psv,2025-10-18
@@ -125,7 +127,7 @@ src/grid.js,2024-10-20
 src/grid.ts,2024-10-20
 src/labyrinth.js,2021-12-18
 src/labyrinth.ts,2021-12-18
-src/last_modify.js,2022-01-22
+src/last_modify.js,2025-12-21
 src/last_modify.ts,2022-01-22
 src/maze_v1.js,2022-04-30
 src/maze_v1.ts,2022-04-30
